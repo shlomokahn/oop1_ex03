@@ -4,7 +4,7 @@
 
 int main()
 {
-	Pixel p1(' ');
+	Pixel p1(' '); 
 	Pixel p2(char(176));
 	Pixel p3(char(219));
 	
@@ -15,4 +15,5 @@ int main()
 
 
 	return 0;
+
 }
